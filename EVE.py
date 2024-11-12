@@ -17,13 +17,13 @@ from commands.dnd.import_character import import_character
 
 from dotenv import load_dotenv
 import os
-#from myserver import server_on
+from myserver import server_on
 
 load_dotenv()
 
 
 # ดึง token จาก .env
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("TOKEN")
 
 # สร้างบอท
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
@@ -145,7 +145,7 @@ bot.add_command(character)
 bot.add_command(character_list)
 bot.add_command(show_all_character_info)
 
-#server_on()
+server_on()
 
 # เริ่มต้นการทำงานของบอท
 bot.run(TOKEN)
