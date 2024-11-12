@@ -17,7 +17,7 @@ from commands.dnd.import_character import import_character
 
 from dotenv import load_dotenv
 import os
-from myserver import server_on
+#from myserver import server_on
 
 load_dotenv()
 
