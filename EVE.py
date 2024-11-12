@@ -7,7 +7,7 @@ import os
 load_dotenv()
 
 # ดึง token จาก .env
-TOKEN = os.getenv("DISCORD_TOKEN")
+TOKEN = os.getenv("TOKEN")
 
 from commands.tarrot import tarot
 from commands.gtts import eveen, eveth, translate, translate_JP
