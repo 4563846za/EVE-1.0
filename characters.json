@@ -1,0 +1,848 @@
+{
+    "419744455269154836": {
+        "characters": [
+            {
+                "id": 118744379,
+                "user_id": 116905813,
+                "username": "Phadgrapao",
+                "is_assigned_to_player": true,
+                "readonly_url": "https://dndbeyond.com/characters/118744379",
+                "avatar_url": "https://www.dndbeyond.com/avatars/39974/519/1581111423-118744379.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+                "frame_avatar_url": null,
+                "small_backdrop_avatar_url": "https://www.dndbeyond.com/avatars/40363/871/638451646229022572.png",
+                "large_backdrop_avatar_url": "https://www.dndbeyond.com/avatars/40363/878/638451646384012718.png",
+                "name": "EVE",
+                "social_name": null,
+                "gender": null,
+                "faith": null,
+                "age": null,
+                "hair": null,
+                "eyes": null,
+                "skin": null,
+                "height": null,
+                "weight": null,
+                "inspiration": false,
+                "base_hit_points": 42,
+                "stats": {
+                    "1": 10,
+                    "2": 15,
+                    "3": 14,
+                    "4": 8,
+                    "5": 10,
+                    "6": 14
+                },
+                "background_name": "Criminal / Spy",
+                "background_description": "<p>You are an experienced criminal with a history of breaking the law. You have spent a lot of time among other criminals and still have contacts within the criminal underworld. You\u2019re far closer than most people to the world of murder, theft, and violence that pervades the underbelly of civilization, and you have survived up to this point by flouting the rules and regulations of society.</p>\r\n<div class=\"line character height1 marginTop20 marginBottom20\">&nbsp;</div>\r\n<dl>\r\n<dt><strong>Skill Proficiencies:</strong>&nbsp;Deception, Stealth</dt>\r\n<dt><strong>Tool Proficiencies:</strong> One type of gaming set, thieves\u2019 tools</dt>\r\n<dt><strong>Equipment:</strong> A crowbar, a set of dark common clothes including a hood, and a pouch containing 15 gp</dt>\r\n</dl>\r\n<div class=\"line character height1 marginTop20 marginBottom20\">&nbsp;</div>\r\n<h5 id=\"criminal-specialty\">Criminal Specialty</h5>\r\n<p>There are many kinds of criminals, and within a thieves\u2019 guild or similar criminal organization, individual members have particular specialties. Even criminals who operate outside of such organizations have strong preferences for certain kinds of crimes over others. Choose the role you played in your criminal life, or roll on the table below.</p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8</th>\r\n<th class=\"left wrap\" style=\"text-align: left;\">Specialty</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td class=\"left wrap\">Blackmailer</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td class=\"left wrap\">Burglar</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td class=\"left wrap\">Enforcer</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td class=\"left wrap\">Fence</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td class=\"left wrap\">Highway robber</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td class=\"left wrap\">Hired killer</td>\r\n</tr>\r\n<tr>\r\n<td>7</td>\r\n<td class=\"left wrap\">Pickpocket</td>\r\n</tr>\r\n<tr>\r\n<td>8</td>\r\n<td class=\"left wrap\">Smuggler</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<blockquote>\r\n<p id=\"criminal-contact\"><strong>FEATURE: CRIMINAL CONTACT</strong></p>\r\n<p>You have a reliable and trustworthy contact who acts as your liaison to a network of other criminals. You know how to get messages to and from your contact, even over great distances; specifically, you know the local messengers, corrupt caravan masters, and seedy sailors who can deliver messages for you.</p>\r\n</blockquote>\r\n<div class=\"line character height1 marginTop20 marginBottom20\">&nbsp;</div>\r\n<h5 id=\"variant-criminal-spy\">Variant Criminal: Spy</h5>\r\n<p>Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.</p>\r\n<div class=\"line character height1 marginTop20 marginBottom20\">&nbsp;</div>\r\n<h5>Suggested Characteristics</h5>\r\n<p>Criminals might seem like villains on the surface, and many of them are villainous to the core. But some have an abundance of endearing, if not redeeming, characteristics. There might be honor among thieves, but criminals rarely show any respect for law or authority.</p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d8</th>\r\n<th class=\"left wrap\" style=\"text-align: left;\">Personality Trait</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td class=\"left wrap\">I always have a plan for what to do when things go wrong.</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td class=\"left wrap\">I am always calm, no matter what the situation. I never raise my voice or let my emotions control me.</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td class=\"left wrap\">The first thing I do in a new place is note the locations of everything valuable&mdash;or where such things could be hidden.</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td class=\"left wrap\">I would rather make a new friend than a new enemy.</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td class=\"left wrap\">I am incredibly slow to trust. Those who seem the fairest often have the most to hide.</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td class=\"left wrap\">I don\u2019t pay attention to the risks in a situation. Never tell me the odds.</td>\r\n</tr>\r\n<tr>\r\n<td>7</td>\r\n<td class=\"left wrap\">The best way to get me to do something is to tell me I can\u2019t do it.</td>\r\n</tr>\r\n<tr>\r\n<td>8</td>\r\n<td class=\"left wrap\">I blow up at the slightest insult.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6</th>\r\n<th class=\"left wrap\" style=\"text-align: left;\">Ideal</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td class=\"left wrap\"><b>Honor.</b> I don\u2019t steal from others in the trade. (Lawful)</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td class=\"left wrap\"><b>Freedom.</b> Chains are meant to be broken, as are those who would forge them. (Chaotic)</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td class=\"left wrap\"><b>Charity.</b> I steal from the wealthy so that I can help people in need. (Good)</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td class=\"left wrap\"><b>Greed.</b> I will do whatever it takes to become wealthy. (Evil)</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td class=\"left wrap\"><b>People.</b> I\u2019m loyal to my friends, not to any ideals, and everyone else can take a trip down the Styx for all I care. (Neutral)</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td class=\"left wrap\"><b>Redemption.</b> There\u2019s a spark of good in everyone. (Good)</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6</th>\r\n<th class=\"left wrap\" style=\"text-align: left;\">Bond</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td class=\"left wrap\">I\u2019m trying to pay off an old debt I owe to a generous benefactor.</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td class=\"left wrap\">My ill-gotten gains go to support my family.</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td class=\"left wrap\">Something important was taken from me, and I aim to steal it back.</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td class=\"left wrap\">I will become the greatest thief that ever lived.</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td class=\"left wrap\">I\u2019m guilty of a terrible crime. I hope I can redeem myself for it.</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td class=\"left wrap\">Someone I loved died because of I mistake I made. That will never happen again.</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d6</th>\r\n<th class=\"left wrap\" style=\"text-align: left;\">Flaw</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td class=\"left wrap\">When I see something valuable, I can\u2019t think about anything but how to steal it.</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td class=\"left wrap\">When faced with a choice between money and my friends, I usually choose the money.</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td class=\"left wrap\">If there\u2019s a plan, I\u2019ll forget it. If I don\u2019t forget it, I\u2019ll ignore it.</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td class=\"left wrap\">I have a &ldquo;tell&rdquo; that reveals when I\u2019m lying.</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td class=\"left wrap\">I turn tail and run when things look bad.</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td class=\"left wrap\">An innocent person is in prison for a crime that I committed. I\u2019m okay with that.</td>\r\n</tr>\r\n</tbody>\r\n</table>",
+                "race_full_name": "Changeling",
+                "race_description": "<p>A changeling can shift its face and form with a thought as a form of artistic and emotional expression.</p>\r\n<p class=\"characters-statblock\" style=\"font-family: Roboto Condensed;\"><strong>Racial Traits</strong><br />+2 Charisma, +1 to One Other Ability Score, Shapechanger, Changeling Instincts</p>",
+                "inventory": [
+                    {
+                        "item_id": 1386403462,
+                        "item_name": "Cloak of Protection",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1386304336,
+                        "item_name": "Eyes of Minute Seeing",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1390175098,
+                        "item_name": "Horn of Valhalla (Silver)",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1389259177,
+                        "item_name": "Shadowfell Shard",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1386305184,
+                        "item_name": "Bloodwell Vial, +1",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1389703337,
+                        "item_name": "Bloodwell Vial, +3",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1344836994,
+                        "item_name": "Dagger",
+                        "item_type": "Dagger",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1350722441,
+                        "item_name": "Longsword",
+                        "item_type": "Longsword",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1344836983,
+                        "item_name": "Backpack",
+                        "item_type": "Gear",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1344836996,
+                        "item_name": "Clothes, Common",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1382845625,
+                        "item_name": "Potion of Healing",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836985,
+                        "item_name": "Arcane Focus",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350720781,
+                        "item_name": "Ink (1 ounce bottle)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350720615,
+                        "item_name": "Ink Pen",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350720204,
+                        "item_name": "Bedroll",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350722220,
+                        "item_name": "Bottle, Glass",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350721500,
+                        "item_name": "Chain (10 feet)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836995,
+                        "item_name": "Crowbar",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350721563,
+                        "item_name": "Grappling Hook",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350721761,
+                        "item_name": "Healer's Kit",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350721228,
+                        "item_name": "Holy Water (flask)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836987,
+                        "item_name": "Mess Kit",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350719915,
+                        "item_name": "Oil (flask)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1350720438,
+                        "item_name": "Paper (one sheet)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836990,
+                        "item_name": "Rations (1 day)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836992,
+                        "item_name": "Rope, Hempen (50 feet)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836988,
+                        "item_name": "Tinderbox",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836989,
+                        "item_name": "Torch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1344836991,
+                        "item_name": "Waterskin",
+                        "item_type": "Gear",
+                        "equipped": false
+                    }
+                ],
+                "notes_allies": null,
+                "notes_personal_possessions": null,
+                "personality_traits": null,
+                "ideals": null,
+                "bonds": null,
+                "flaws": null,
+                "use_homebrew_content": true
+            }
+        ],
+        "active_character": "EVE"
+    },
+    "439119028888403979": {
+        "characters": [
+            {
+                "id": 135712321,
+                "user_id": 108186414,
+                "username": "Catmankingdom",
+                "is_assigned_to_player": true,
+                "readonly_url": "https://dndbeyond.com/characters/135712321",
+                "avatar_url": "https://www.dndbeyond.com/avatars/45348/945/1581111423-135712321.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+                "frame_avatar_url": null,
+                "small_backdrop_avatar_url": null,
+                "large_backdrop_avatar_url": null,
+                "name": "Schneider",
+                "social_name": null,
+                "gender": null,
+                "faith": null,
+                "age": null,
+                "hair": null,
+                "eyes": null,
+                "skin": null,
+                "height": null,
+                "weight": null,
+                "inspiration": false,
+                "base_hit_points": 22,
+                "stats": {
+                    "1": 17,
+                    "2": 16,
+                    "3": 17,
+                    "4": 10,
+                    "5": 14,
+                    "6": 11
+                },
+                "background_name": "Soldier",
+                "background_description": "<p><strong>Ability Scores:</strong>&nbsp;Strength, Dexterity, Constitution<br /><strong>Feat:</strong>&nbsp;Savage Attacker<br /><strong>Skill Proficiencies:</strong> Athletics and Intimidation<br /><strong>Tool Proficiency:</strong>&nbsp;<em>Choose one kind of Gaming Set</em><br /><strong>Equipment:</strong> <em>Choose A or B:</em> (A) Spear, Shortbow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP</p>\r\n<p>You began training for war as soon as you reached adulthood and carry precious few memories of life before you took up arms. Battle is in your blood. Sometimes you catch yourself reflexively performing the basic fighting exercises you learned first. Eventually, you put that training to use on the battlefield, protecting the realm by waging war.</p>",
+                "race_full_name": "Centaur",
+                "race_description": "<p>Centaurs gallop throughout the multiverse and trace their origins to many different realms.</p>\r\n<p class=\"characters-statblock\" style=\"font-family: Roboto Condensed;\"><strong>Racial Traits</strong><br />Fey, Charge, Equine Build, Hooves, Natural Affinity</p>",
+                "inventory": [
+                    {
+                        "item_id": 1550964396,
+                        "item_name": "Chain Mail",
+                        "item_type": "Heavy Armor",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550888175,
+                        "item_name": "Glaive",
+                        "item_type": "Glaive",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1550964399,
+                        "item_name": "Javelin",
+                        "item_type": "Javelin",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887566,
+                        "item_name": "Spear",
+                        "item_type": "Spear",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1550964398,
+                        "item_name": "Flail",
+                        "item_type": "Flail",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887817,
+                        "item_name": "Halberd",
+                        "item_type": "Halberd",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1550888579,
+                        "item_name": "Longbow",
+                        "item_type": "Longbow",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1550964395,
+                        "item_name": "Backpack",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887565,
+                        "item_name": "Quiver",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887568,
+                        "item_name": "Arrows",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887569,
+                        "item_name": "Healer's Kit",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550887570,
+                        "item_name": "Traveler's Clothes",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964402,
+                        "item_name": "Oil",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964403,
+                        "item_name": "Rations",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964404,
+                        "item_name": "Rope",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964405,
+                        "item_name": "Tinderbox",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964406,
+                        "item_name": "Torch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964407,
+                        "item_name": "Waterskin",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964400,
+                        "item_name": "Caltrops",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1550964401,
+                        "item_name": "Crowbar",
+                        "item_type": "Gear",
+                        "equipped": false
+                    }
+                ],
+                "notes_allies": null,
+                "notes_personal_possessions": null,
+                "personality_traits": null,
+                "ideals": null,
+                "bonds": null,
+                "flaws": null,
+                "use_homebrew_content": true
+            },
+            {
+                "id": 128223725,
+                "user_id": 108186414,
+                "username": "Catmankingdom",
+                "is_assigned_to_player": true,
+                "readonly_url": "https://dndbeyond.com/characters/128223725",
+                "avatar_url": "https://www.dndbeyond.com/avatars/44769/751/1581111423-128223725.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+                "frame_avatar_url": null,
+                "small_backdrop_avatar_url": null,
+                "large_backdrop_avatar_url": null,
+                "name": "shongtin atlas",
+                "social_name": null,
+                "gender": null,
+                "faith": null,
+                "age": null,
+                "hair": null,
+                "eyes": null,
+                "skin": null,
+                "height": "2'5\"",
+                "weight": null,
+                "inspiration": false,
+                "base_hit_points": 46,
+                "stats": {
+                    "1": 8,
+                    "2": 13,
+                    "3": 14,
+                    "4": 10,
+                    "5": 15,
+                    "6": 12
+                },
+                "background_name": "Outlander",
+                "background_description": "<p>You grew up in the wilds, far from the comforts of town and technology. You\u2019ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don\u2019t know the specific features of the terrain, you know the ways of the wild.</p>\r\n<hr />\r\n<p><strong>Skill Proficiencies:</strong> Athletics, Survival</p>\r\n<p><strong>Tool Proficiencies:</strong> One type of musical instrument</p>\r\n<p><strong>Languages:</strong> One of your choice</p>\r\n<p><strong>Equipment:</strong> A staff, a hunting trap, a trophy from an animal you killed, a set of traveler\u2019s clothes, and a pouch containing 10 gp</p>\r\n<hr />\r\n<h5 class=\"compendium-hr\">Origin</h5>\r\n<p>You\u2019ve been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.</p>\r\n<table class=\"compendium-left-aligned-table\">\r\n<thead>\r\n<tr>\r\n<th>d10</th>\r\n<th style=\"text-align: left;\">Origin</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n<tr>\r\n<td>1</td>\r\n<td>Forester</td>\r\n</tr>\r\n<tr>\r\n<td>2</td>\r\n<td>Trapper</td>\r\n</tr>\r\n<tr>\r\n<td>3</td>\r\n<td>Homesteader</td>\r\n</tr>\r\n<tr>\r\n<td>4</td>\r\n<td>Guide</td>\r\n</tr>\r\n<tr>\r\n<td>5</td>\r\n<td>Exile or outcast</td>\r\n</tr>\r\n<tr>\r\n<td>6</td>\r\n<td>Bounty hunter</td>\r\n</tr>\r\n<tr>\r\n<td>7</td>\r\n<td>Pilgrim</td>\r\n</tr>\r\n<tr>\r\n<td>8</td>\r\n<td>Tribal nomad</td>\r\n</tr>\r\n<tr>\r\n<td>9</td>\r\n<td>Hunter-gatherer</td>\r\n</tr>\r\n<tr>\r\n<td>10</td>\r\n<td>Tribal marauder</td>\r\n</tr>\r\n</tbody>\r\n</table>\r\n<hr />\r\n<h5 class=\"compendium-hr\">Feature: Wanderer</h5>\r\n<p>You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.</p>",
+                "race_full_name": "Fairy",
+                "race_description": "<p>Infused with the magic of the Feywild, most fairies look like Small elves with insectile wings, but each fairy has a special physical characteristic that sets the fairy apart.</p>\r\n<p class=\"characters-statblock\" style=\"font-family: Roboto Condensed;\"><strong>Racial Traits</strong><br />Fey, Fairy Magic, Flight</p>",
+                "inventory": [
+                    {
+                        "item_id": 1554265900,
+                        "item_name": "Belt of Hill Giant Strength",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1533875155,
+                        "item_name": "Stone of Good Luck (Luckstone)",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1533887084,
+                        "item_name": "Giant Slayer Longsword",
+                        "item_type": "Longsword",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1526913218,
+                        "item_name": "Sentinel Shield",
+                        "item_type": null,
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1550697890,
+                        "item_name": "Moon Sickle, +1",
+                        "item_type": "Sickle",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1506930811,
+                        "item_name": "Potion of Healing",
+                        "item_type": "Potion",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1506826030,
+                        "item_name": "Studded Leather",
+                        "item_type": "Light Armor",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518877607,
+                        "item_name": "Half Plate",
+                        "item_type": "",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1476868097,
+                        "item_name": "Club",
+                        "item_type": "Club",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1476869237,
+                        "item_name": "Sling",
+                        "item_type": "Sling",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1460100300,
+                        "item_name": "Shortsword",
+                        "item_type": "Shortsword",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1460100301,
+                        "item_name": "Shortsword",
+                        "item_type": "Shortsword",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100309,
+                        "item_name": "Longbow",
+                        "item_type": "Longbow",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1460100310,
+                        "item_name": "Arrows",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100297,
+                        "item_name": "Backpack",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100298,
+                        "item_name": "Pouch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100313,
+                        "item_name": "Clothes, Traveler's",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460108054,
+                        "item_name": "Staff",
+                        "item_type": "Gear",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1476868947,
+                        "item_name": "Clothes, Traveler's",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1490746884,
+                        "item_name": "Drum",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1500954104,
+                        "item_name": "Lantern, Hooded",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1500954122,
+                        "item_name": "Oil (flask)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518874008,
+                        "item_name": "Chest",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518888784,
+                        "item_name": "Hammer",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518893545,
+                        "item_name": "Crowbar",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1533481180,
+                        "item_name": "Horn",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1554845133,
+                        "item_name": "Clothes, Fine",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1554849111,
+                        "item_name": "Component Pouch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100302,
+                        "item_name": "Bedroll",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1490792812,
+                        "item_name": "Hammer",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100303,
+                        "item_name": "Mess Kit",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518873304,
+                        "item_name": "Piton",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1493476346,
+                        "item_name": "Potion of Healing",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100306,
+                        "item_name": "Rations (1 day)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100308,
+                        "item_name": "Rope, Hempen (50 feet)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518873577,
+                        "item_name": "Rope, Hempen (50 feet)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100304,
+                        "item_name": "Tinderbox",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100305,
+                        "item_name": "Torch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100307,
+                        "item_name": "Waterskin",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1535178777,
+                        "item_name": "Gauntlets of Ogre Power",
+                        "item_type": "Wondrous item",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526815218,
+                        "item_name": "Potion of Water Breathing",
+                        "item_type": "Potion",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1509842492,
+                        "item_name": "Berserker Handaxe",
+                        "item_type": "Handaxe",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526791337,
+                        "item_name": "Potion of Healing (Greater)",
+                        "item_type": "Potion",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1542583394,
+                        "item_name": "Cloud Walkers",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1460100299,
+                        "item_name": "Scale Mail",
+                        "item_type": "",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1476867721,
+                        "item_name": "Shield",
+                        "item_type": "Shield",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1460100312,
+                        "item_name": "Hunting Trap",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1518874890,
+                        "item_name": "Pole (10-foot)",
+                        "item_type": "Gear",
+                        "equipped": false
+                    }
+                ],
+                "notes_allies": null,
+                "notes_personal_possessions": "a trophy from an animal you killed",
+                "personality_traits": null,
+                "ideals": null,
+                "bonds": null,
+                "flaws": null,
+                "use_homebrew_content": true
+            },
+            {
+                "id": 132595438,
+                "user_id": 108186414,
+                "username": "Catmankingdom",
+                "is_assigned_to_player": true,
+                "readonly_url": "https://dndbeyond.com/characters/132595438",
+                "avatar_url": "https://www.dndbeyond.com/avatars/44677/899/1581111423-132595438.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp",
+                "frame_avatar_url": null,
+                "small_backdrop_avatar_url": null,
+                "large_backdrop_avatar_url": null,
+                "name": "magistusa Lauron",
+                "social_name": null,
+                "gender": "female",
+                "faith": null,
+                "age": 23,
+                "hair": null,
+                "eyes": null,
+                "skin": null,
+                "height": "3'9\"",
+                "weight": 74,
+                "inspiration": false,
+                "base_hit_points": 22,
+                "stats": {
+                    "1": 9,
+                    "2": 12,
+                    "3": 12,
+                    "4": 12,
+                    "5": 13,
+                    "6": 15
+                },
+                "background_name": "Acolyte",
+                "background_description": "<p><strong>Ability Scores:</strong>&nbsp;Intelligence, Wisdom, Charisma<br /><strong>Feat:</strong>&nbsp;Magic Initiate (Cleric)<br /><strong>Skill Proficiencies:</strong> Insight and Religion<br /><strong>Tool Proficiency:</strong>&nbsp;Calligrapher's Supplies<br /><strong>Equipment:</strong> <em>Choose A or B:</em> (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP</p>\r\n<p>You devoted yourself to service in a temple, either nestled in a town or secluded in a sacred grove. There you performed rites in honor of a god or pantheon. You served under a priest and studied religion. Thanks to your priest\u2019s instruction and your own devotion, you also learned how to channel a modicum of divine power in service to your place of worship and the people who prayed there.</p>",
+                "race_full_name": "Halfling",
+                "race_description": "<p>Halflings possess a brave and adventurous spirit that leads them on journeys of discovery.</p>\r\n<p style=\"font-family: Roboto Condensed;\"><strong>Halfling Traits</strong><br />Brave, Halfling Nimbleness, Luck, Naturally Stealthy</p>",
+                "inventory": [
+                    {
+                        "item_id": 1511847572,
+                        "item_name": "Bloodwell Vial, +1",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1511847652,
+                        "item_name": "Feywild Shard",
+                        "item_type": "Wondrous item",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1511862936,
+                        "item_name": "Staff of the Ivory Claw",
+                        "item_type": "Staff",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1526067880,
+                        "item_name": "Backpack",
+                        "item_type": "Gear",
+                        "equipped": true
+                    },
+                    {
+                        "item_id": 1526068193,
+                        "item_name": "Piton",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067882,
+                        "item_name": "Oil",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067883,
+                        "item_name": "Rations",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067884,
+                        "item_name": "Rope",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067881,
+                        "item_name": "Bedroll",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526069259,
+                        "item_name": "Shovel",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067885,
+                        "item_name": "Tinderbox",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067886,
+                        "item_name": "Torch",
+                        "item_type": "Gear",
+                        "equipped": false
+                    },
+                    {
+                        "item_id": 1526067887,
+                        "item_name": "Waterskin",
+                        "item_type": "Gear",
+                        "equipped": false
+                    }
+                ],
+                "notes_allies": null,
+                "notes_personal_possessions": null,
+                "personality_traits": null,
+                "ideals": null,
+                "bonds": null,
+                "flaws": null,
+                "use_homebrew_content": true
+            }
+        ],
+        "active_character": "magistusa Lauron"
+    }
+}
