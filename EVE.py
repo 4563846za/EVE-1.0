@@ -145,7 +145,7 @@ bot.add_command(character)
 bot.add_command(character_list)
 bot.add_command(show_all_character_info)
 
-server_on()
+#server_on()
 
 # เริ่มต้นการทำงานของบอท
 bot.run(TOKEN)
