@@ -42,7 +42,7 @@ async def character(ctx, character_name: str = None):
 
             active_character = next((char for char in data[user_id]["characters"] if char['name'] == active_name), None)
             if active_character:
-                await ctx.send(f"ตัวละครหลักที่คุณกำลังใช้คือ: {active_character['name']} (เลเวล {active_character['level']} {active_character['race_full_name']} {active_character['background_name']})")
+                await ctx.send(f"ตัวละครหลักที่คุณกำลังใช้คือ: {active_character['name']} ({active_character['race_full_name']} {active_character['background_name']})")
             else:
                 await ctx.send("ไม่พบตัวละครหลักที่เลือกไว้")
 
