@@ -17,6 +17,7 @@ from commands.dnd.import_character import import_character
 
 from dotenv import load_dotenv
 import os
+from myserver import server_on
 
 load_dotenv()
 
@@ -143,6 +144,8 @@ bot.add_command(import_character)
 bot.add_command(character)
 bot.add_command(character_list)
 bot.add_command(show_all_character_info)
+
+server_on()
 
 # เริ่มต้นการทำงานของบอท
 bot.run(TOKEN)
