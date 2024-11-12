@@ -3,6 +3,8 @@ from discord.ext import commands
 from dotenv import load_dotenv
 import os
 
+from myserver import server_on
+
 # โหลดค่า .env
 load_dotenv()
 
@@ -56,6 +58,8 @@ async def on_ready():
     print('EVE ตื่นแล้ว')
 
 # เพิ่มเติมคำสั่งต่าง ๆ เช่น add_command(play), add_command(eveth) ตามโค้ดของคุณ
+
+server_on()
 
 # เริ่มต้นการทำงานของบอท
 bot.run(TOKEN)
