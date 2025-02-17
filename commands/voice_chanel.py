@@ -35,14 +35,14 @@ async def eve(ctx):
 @bot.command(pass_context=True, aliases=['l'])
 async def leave(ctx):
     channel = ctx.author.voice.channel
-    voice_client = get(bot.voice_clients, guild=ctx.guild)
+    voice_client = ctx.voice_client  # ใช้ ctx.voice_client แทน
 
     if voice_client and voice_client.is_connected():
         await voice_client.disconnect()
         print(f'EVE ออกจากห้องเสียง{channel}แล้ว')
         await ctx.send('งั้นฉันไปละนะ')
     else:
-        await ctx.send('EVE ออกจากห้องเสียง{channel}แล้ว | !help')
+        await ctx.send(f'EVE ออกจากห้องเสียง{channel}แล้ว | !help')
 
 
 @bot.command(pass_context=True, aliases=['pro'])
